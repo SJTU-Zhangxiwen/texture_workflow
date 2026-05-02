@@ -63,7 +63,7 @@ def start():
     """
     # return ["-start"]
     command = []
-    command += ["-generateAIMasks"]
+    # command += ["-generateAIMasks"]
     command += ["-align"]
     command += ["-setReconstructionRegionAuto"]
     command += ["-calculateNormalModel"]
